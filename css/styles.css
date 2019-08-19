@@ -1,0 +1,79 @@
+body {
+	background: linear-gradient(#4292FA,  #E3F2FD, #4292FA);
+	font-kerning: normal;
+}
+
+h4 {
+	color: white;
+	font-size: 48px;
+	font-weight: bold;
+	font-kerning: normal;
+	font-family: serif;
+	background: linear-gradient(#4292FA,  #E3F2FD, #4292FA);
+	margin-bottom: 60px;
+	padding: 22px;
+	border: 3px solid #4292FA;
+	border-radius: 8px;
+}
+
+h3 {
+	color: #3090F6;
+}
+
+h2 {
+	color: #4292FA;
+}
+
+p {
+	background-color: #E1F5FE;
+	padding: 10px;
+	border: 1px solid #E1F5FE;
+	border-radius: 9px;
+}
+
+p2 {
+	font-size: 18px;
+	padding: 10px;
+	margin: 9px;
+}
+
+b {
+	color:  #4292FA;
+}
+
+a {
+	color:  #81D4FA;
+}
+	
+img {
+	margin-bottom: 20px;
+}
+
+.donot {
+	border: 4px solid white;
+    border-radius: 9px 9px 0px 0px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.clicks {
+  font-size: 15px;
+  font-family: monospace;
+  border: 50%;
+  position: relative;
+  -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
+  animation: mymove 5s infinite;
+  animation-direction: alternate;
+}
+
+/* Safari 4.0 - 8.0 */
+@-webkit-keyframes mymove {
+  from {left: -20%;}
+  to {left: 40%;}
+}
+
+@keyframes mymove {
+  from {left: -20%;}
+  to {left: 20%;}
+}
+
