@@ -9,7 +9,7 @@ h4 {
 	font-weight: bold;
 	font-kerning: normal;
 	font-family: serif;
-	background: linear-gradient(#4292FA,  #E3F2FD, #4292FA);
+	background: linear-gradient(#4292FA, #E3F2FD, #4292FA);
 	margin-bottom: 60px;
 	padding: 22px;
 	border: 3px solid #4292FA;
@@ -61,19 +61,18 @@ img {
   font-family: monospace;
   border: 50%;
   position: relative;
-  -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
-  animation: mymove 5s infinite;
+  -webkit-animation: mymove 4s infinite; /* Safari 4.0 - 8.0 */
+  animation: mymove 4s infinite;
   animation-direction: alternate;
 }
 
 /* Safari 4.0 - 8.0 */
 @-webkit-keyframes mymove {
-  from {left: -20%;}
+  from {left: 0%;}
   to {left: 40%;}
 }
 
 @keyframes mymove {
-  from {left: -20%;}
-  to {left: 20%;}
+  from {left: 0%;}
+  to {left: 4%;}
 }
-
