@@ -5,14 +5,14 @@ body {
 
 h4 {
 	color: white;
-	font-size: 48px;
+	font-size: 20px;
 	font-weight: bold;
 	font-kerning: normal;
 	font-family: serif;
 	background: linear-gradient(#4292FA, #E3F2FD, #4292FA);
-	margin-bottom: 60px;
-	padding: 22px;
-	border: 3px solid #4292FA;
+	margin-bottom: 20px;
+	padding: 12px;
+	border: 2px solid #4292FA;
 	border-radius: 8px;
 }
 
@@ -33,8 +33,16 @@ p {
 
 p2 {
 	font-size: 18px;
-	padding: 10px;
+	padding: 16px;
 	margin: 9px;
+}
+
+.intro {
+	color: grey;
+	padding: 12px;
+	margin-bottom: 13px;
+	border: 1px solid white;
+	border-radius: 4px;
 }
 
 b {
@@ -50,15 +58,15 @@ img {
 }
 
 .donot {
-	border: 4px solid white;
+	border: 9px solid white;
     border-radius: 9px 9px 0px 0px;
     padding: 10px;
     margin: 5px;
 }
 
 .clicks {
-  font-size: 15px;
-  font-family: monospace;
+  font-size: 19px;
+  font-family: sans-serif, serif;
   border: 50%;
   position: relative;
   -webkit-animation: mymove 4s infinite; /* Safari 4.0 - 8.0 */
@@ -75,4 +83,10 @@ img {
 @keyframes mymove {
   from {left: 0%;}
   to {left: 4%;}
+}
+
+#cure12 {
+	margin-bottom: 25px;
+	background: linear-gradient(to right, white,  #E1F5FE, white);
+	border-radius: 5px;
 }

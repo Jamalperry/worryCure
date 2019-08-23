@@ -1,9 +1,9 @@
 function myThings1() {
-  document.getElementById("med1").innerHTML = "All things that is in harmony with eternaltruth in creationand revelation.";
+  document.getElementById("med1").innerHTML = "All things that is in harmony with eternal truth in creation and revelation.";
 }
 	
 function myVerse1() {
-	document.getElementById("verse1").innerHTML = "Study and do your best to present yourself to God approved, a workman [tested by trial] who has no reason to be ashamed, accurately handling and skillfully teaching the word of truth... All Scripture is God-breathed [given by divine inspiration] and is profitable for instruction, for conviction [of sin], for correction [of error and restoration to obedience], for training in righteousness [learning to live in conformity to God’s will, both publicly and privately--behaving honorably with personal integrity and moral courage]; so that the man of God may be complete and proficient, outfitted and thoroughly equipped for every good work.";
+	document.getElementById("verse1").innerHTML = "Study and do your best to present yourself to God approved, a workman [tested by trial] who has no reason to be ashamed, accurately handling and skillfully teaching the word of truth.....(2Timothy2:15). All Scripture is God-breathed [given by divine inspiration] and is profitable for instruction, for conviction [of sin], for correction [of error and restoration to obedience], for training in righteousness [learning to live in conformity to God’s will, both publicly and privately--behaving honorably with personal integrity and moral courage]; so that the man of God may be complete and proficient, outfitted and thoroughly equipped for every good work...(2Timothy3:16-17).";
 }
 
 function myThings2() {
