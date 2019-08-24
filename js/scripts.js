@@ -15,7 +15,7 @@ function myVerse2() {
 }
 
 function myThings3() {
-	document.getElementById("med3").innerHTML = "#";
+	document.getElementById("med3").innerHTML = "All that is in harmony with justice and righteousness";
 }
 	
 function myVerse3() {
@@ -23,7 +23,7 @@ function myVerse3() {
 }
 
 function myThings4() {
-	document.getElementById("med4").innerHTML = "#";
+	document.getElementById("med4").innerHTML = "All that is chaste and holy for body and soul";
 }
 	
 function myVerse4() {
@@ -31,7 +31,7 @@ function myVerse4() {
 }
 
 function myThings5() {
-	document.getElementById("med5").innerHTML = "#";
+	document.getElementById("med5").innerHTML = "All that is pleasing and tends to bless others";
 }
 	
 function myVerse5() {
@@ -39,7 +39,7 @@ function myVerse5() {
 }
 
 function myThings6() {
-	document.getElementById("med6").innerHTML = "#";
+	document.getElementById("med6").innerHTML = "All that is in harmony with the best public good, virtuous and praise worthy ";
 }
 	
 function myVerse6() {
