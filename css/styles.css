@@ -70,6 +70,12 @@ svg {
 	margin: 0px;
 }
 
+h2 button {
+	letter-spacing: 7px;
+	font-size: 20px;
+	background-color: white;
+}
+
 .donot {
 	border: 9px solid white;
     border-radius: 9px 9px 0px 0px;
@@ -146,6 +152,7 @@ svg {
 
 
 .sea4 {
+	color: #4292FA;
 	font-size: 22px;
 	background-color: #81D4FA;
 	border: 9px solid #81D4FA;
@@ -155,6 +162,7 @@ svg {
 }
 
 .sea5 {
+	color: #4292FA;
 	font-size: 22px;
 	background-color: #B3E5FC;
 	border: 9px solid #B3E5FC;
@@ -164,6 +172,7 @@ svg {
 }
 
 .sea6 {
+	color: #4292FA;
 	font-size: 22px;
 	background-color: #E1F5FE;
 	border: 9px solid #E1F5FE;
@@ -176,6 +185,16 @@ svg {
 	width: 40px;
 	height: 40px;
 }
+
+.nothin b {
+	letter-spacing: 4px;
+}
+
+.nothin {
+	background: linear-gradient(to right, #73C2D6, #E1F5FE, #73C2D6);
+}
+
+
 
 
 	

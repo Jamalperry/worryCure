@@ -3,15 +3,22 @@ function myThings1() {
 }
 	
 function myVerse1() {
-	document.getElementById("verse1").innerHTML = "Study and do your best to present yourself to God approved, a workman [tested by trial] who has no reason to be ashamed, accurately handling and skillfully teaching the word of truth.....(2Timothy2:15). All Scripture is God-breathed [given by divine inspiration] and is profitable for instruction, for conviction [of sin], for correction [of error and restoration to obedience], for training in righteousness [learning to live in conformity to God’s will, both publicly and privately--behaving honorably with personal integrity and moral courage]; so that the man of God may be complete and proficient, outfitted and thoroughly equipped for every good work...(2Timothy3:16-17).";
+	document.getElementById("verse1").innerHTML = "Study and do your best to present yourself to God approved, a workman [tested by trial] who has no reason to be ashamed, accurately handling and skillfully teaching the word of truth.";
 }
+
+function myVerse11() {
+	document.getElementById("verse11").innerHTML = "All Scripture is God-breathed [given by divine inspiration] and is profitable for instruction, for conviction [of sin], for correction [of error and restoration to obedience], for training in righteousness [learning to live in conformity to God’s will, both publicly and privately--behaving honorably with personal integrity and moral courage]; so that the man of God may be complete and proficient, outfitted and thoroughly equipped for every good work.";
 
 function myThings2() {
 	document.getElementById("med2").innerHTML = "All that is grave, decent, honorable, and Christian Gr. semnos.";
 }
 	
 function myVerse2() {
-	document.getElementById("verse2").innerHTML = "#";
+	document.getElementById("verse2").innerHTML = "Deacons likewise must be men worthy of respect [honorable, financially ethical, of good character], not double-tongued [speakers of half-truths], not addicted to wine, not greedy for dishonest gain, but upholding and fully understanding the mystery [that is, the true doctrine] of the [Christian] faith with a clear conscience [resulting from behavior consistent with spiritual maturity].  Women must likewise be worthy of respect, not malicious gossips, but self-controlled, [thoroughly] trustworthy in all things.";
+}
+
+function myVerse21() {
+	document.getElementById("verse21").innerHTML = "Older men are to be temperate, dignified, sensible, sound in faith, in love, in steadfastness [Christlike in character].";
 }
 
 function myThings3() {
@@ -19,7 +26,11 @@ function myThings3() {
 }
 	
 function myVerse3() {
-	document.getElementById("verse3").innerHTML = "#";
+	document.getElementById("verse3").innerHTML = "For by these He has bestowed on us His precious and magnificent promises [of inexpressible value], so that by them you may escape from the immoral freedom that is in the world because of disreputable desire, and become sharers of the divine nature. For this very reason, applying your diligence [to the divine promises, make every effort] in [exercising] your faith to, develop moral excellence, and in moral excellence, knowledge (insight, understanding), and in your knowledge, self-control, and in your self-control, steadfastness, and in your steadfastness, godliness, and in your godliness, brotherly affection, and in your brotherly affection, [develop Christian] love [that is, learn to unselfishly seek the best for others and to do things for their benefit]. For as these qualities are yours and are increasing [in you as you grow toward spiritual maturity], they will keep you from being useless and unproductive in regard to the true knowledge and greater understanding of our Lord Jesus Christ. For whoever lacks these qualities is blind--shortsighted [closing his spiritual eyes to the truth], having become oblivious to the fact that he was cleansed from his old sins. Therefore, believers, be all the more diligent to make certain about His calling and choosing you [be sure that your behavior reflects and confirms your relationship with God]; for by doing these things [actively developing these virtues], you will never stumble [in your spiritual growth and will live a life that leads others away from sin]; for in this way entry into the eternal kingdom of our Lord and Savior Jesus Christ will be abundantly provided to you.";
+}
+
+function myVerse31() {
+	document.getElementById("verse31").innerHTML = "and are being justified [declared free of the guilt of sin, made acceptable to God, and granted eternal life] as a gift by His [precious, undeserved] grace, through the redemption [the payment for our sin] which is [provided] in Christ Jesus, whom God displayed publicly [before the eyes of the world] as a [life-giving] sacrifice of atonement and reconciliation (propitiation) by His blood [to be received] through faith. This was to demonstrate His righteousness [which demands punishment for sin], because in His forbearance [His deliberate restraint] He passed over the sins previously committed [before Jesus’ crucifixion].  It was to demonstrate His righteousness at the present time, so that He would be just and the One who justifies those who have faith in Jesus [and rely confidently on Him as Savior]. Then what becomes of [our] boasting? It is excluded [entirely ruled out, banished]. On what principle? On [the principle of good] works? No, but on the principle of faith. For we maintain that an individual is justified by faith distinctly apart from works of the Law [the observance of which has nothing to do with justification, that is, being declared free of the guilt of sin and made acceptable to God]. Or is God the God of Jews only? Is He not also the God of Gentiles [who were not given the Law]? Yes, of Gentiles also, since indeed it is one [and the same] God who will justify the circumcised by faith [which began with Abraham] and the uncircumcised through [their newly acquired] faith. Do we then nullify the Law by this faith [making the Law of no effect, overthrowing it]? Certainly not! On the contrary, we confirm and establish and uphold the Law [since it convicts us all of sin, pointing to the need for salvation].";
 }
 
 function myThings4() {
